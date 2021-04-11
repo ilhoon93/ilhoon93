@@ -40,7 +40,6 @@
 <ul>
 <li>E-mail : kohkhj902@naver.com
 <li>Blog : https://kih0902.tistory.com/</li>
-<li>Portfolio : https://sites.google.com/view/1hoon/
 </ul>
 
 
